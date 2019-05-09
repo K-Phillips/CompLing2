@@ -1,6 +1,6 @@
 In general, the TNT_tagging.py code is run first, followed by tag_improver.py. 
 
-These files must be modified to run on different files.
+These files must be modified, inside the .py file, to run on different files.
 
 tagger_scoring.py and unknown_counter.py evaluate the model.
 
